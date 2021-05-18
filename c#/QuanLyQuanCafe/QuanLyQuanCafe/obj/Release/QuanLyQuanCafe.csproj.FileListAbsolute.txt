@@ -1,0 +1,13 @@
+D:\Phần mềm quản lý quán cafe\c#\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe.config
+D:\Phần mềm quản lý quán cafe\c#\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe
+D:\Phần mềm quản lý quán cafe\c#\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.pdb
+D:\Phần mềm quản lý quán cafe\c#\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csprojAssemblyReference.cache
+D:\Phần mềm quản lý quán cafe\c#\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fAdmin.resources
+D:\Phần mềm quản lý quán cafe\c#\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fDatHang.resources
+D:\Phần mềm quản lý quán cafe\c#\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fLogin.resources
+D:\Phần mềm quản lý quán cafe\c#\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fMain.resources
+D:\Phần mềm quản lý quán cafe\c#\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fTableManager.resources
+D:\Phần mềm quản lý quán cafe\c#\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.Properties.Resources.resources
+D:\Phần mềm quản lý quán cafe\c#\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Phần mềm quản lý quán cafe\c#\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.exe
+D:\Phần mềm quản lý quán cafe\c#\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.pdb
